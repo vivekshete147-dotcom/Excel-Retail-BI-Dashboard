@@ -61,7 +61,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 12. Profit drivers: Bundled orders (multi-product) yield higher AOV and lower return rates compared to single-product purchases.
 
-# Learned things from the project
+# Learnt things from the project
 
 - I applied Power Query to clean, transform, and merge raw retail data, ensuring it was ready for analysis.
 
