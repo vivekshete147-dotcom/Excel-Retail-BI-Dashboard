@@ -1,0 +1,46 @@
+product_id,category,subcategory,product_name,unit_cost,unit_price,launch_date
+1001,Electronics,Mobiles,Astra Phone X,1957.49,2508.84,4-Jun-23
+1002,Electronics,Mobiles,Nebula One,1773.68,2089.84,27-Oct-24
+1003,Electronics,Mobiles,Pixelate M,2441.49,3365.21,10-May-24
+1004,Electronics,Audio,Echo Buds,407.47,523.65,1-Aug-24
+1005,Electronics,Audio,BoomBox Mini,989.92,1413.63,26-Jul-24
+1006,Electronics,Audio,Wave Soundbar,2074.63,2661.8,12-Feb-24
+1007,Electronics,Accessories,QuickCharge 30W,645.37,849.55,1-Dec-24
+1008,Electronics,Accessories,USB-C Cable 1m,2086.31,2794.61,18-Mar-22
+1009,Electronics,Accessories,PowerBank 10k,1919.41,2411.47,23-Mar-22
+1010,Home & Kitchen,Appliances,BrewMaster Coffee,2243.49,3103.9,10-Mar-25
+1011,Home & Kitchen,Appliances,Swift Blender,567.13,731.61,21-Aug-23
+1012,Home & Kitchen,Appliances,Airy Toaster,470.29,637.2,22-Feb-22
+1013,Home & Kitchen,Cookware,Steel Pan 24cm,1887.43,2718.38,9-May-23
+1014,Home & Kitchen,Cookware,Ceramic Pot 3L,989.1,1276.8,26-Jan-23
+1015,Home & Kitchen,Cookware,Chef Knife,554.73,659.56,3-Apr-24
+1016,Home & Kitchen,Cleaning,RoboVac 200,644.58,870.79,25-Jul-23
+1017,Home & Kitchen,Cleaning,Spin Mop Pro,1149.16,1608.6,26-Jan-24
+1018,Home & Kitchen,Cleaning,DustAway,849.68,1189.28,20-Apr-24
+1019,Fashion,Menswear,Cotton Tee,2031.43,2572.29,13-Dec-24
+1020,Fashion,Menswear,Slim Jeans,1737.99,2071.56,12-Dec-22
+1021,Fashion,Menswear,Formal Shirt,579.78,668.03,14-Aug-24
+1022,Fashion,Womenswear,Summer Dress,1695.64,2308.7,2-Aug-24
+1023,Fashion,Womenswear,Yoga Leggings,1973.75,2541.55,30-Aug-23
+1024,Fashion,Womenswear,Denim Jacket,435.51,515.8,14-Nov-23
+1025,Fashion,Footwear,Running Shoes,1704.17,2200.64,23-Oct-24
+1026,Fashion,Footwear,Loafers,1936,2595.04,10-Nov-23
+1027,Fashion,Footwear,Sandals,1428.59,1882.54,11-Aug-24
+1028,Sports,Outdoor,Trekking Backpack,173.96,222.85,31-Dec-22
+1029,Sports,Outdoor,Camping Tent 2P,615,782.62,6-Apr-25
+1030,Sports,Outdoor,Thermal Bottle,661.45,772.24,21-Oct-24
+1031,Sports,Fitness,Yoga Mat,775.32,959.91,6-Jun-23
+1032,Sports,Fitness,Dumbbell 5kg,1436.88,1990.32,5-Mar-24
+1033,Sports,Fitness,Skipping Rope,1694.35,2155.07,17-May-23
+1034,Sports,Team Sports,Football Size 5,500.74,579.26,3-Sep-24
+1035,Sports,Team Sports,Cricket Bat,316.11,432.03,16-Apr-24
+1036,Sports,Team Sports,Badminton Racket,487.05,633.32,9-Jul-23
+1037,Beauty,Skincare,Hydra Face Wash,465.55,632.63,18-Aug-23
+1038,Beauty,Skincare,Daily Moisturizer,1014.45,1258.38,20-Jun-23
+1039,Beauty,Skincare,Sunscreen SPF50,1612.68,2029.63,25-Feb-25
+1040,Beauty,Haircare,Smooth Shampoo,383.21,551.27,16-Apr-22
+1041,Beauty,Haircare,Repair Conditioner,2280.59,3101.4,3-Jul-23
+1042,Beauty,Haircare,Hair Serum,2426.02,3356.7,16-Nov-22
+1043,Beauty,Fragrance,Citrus Eau,1820.54,2339.05,3-Jun-24
+1044,Beauty,Fragrance,Musk Mist,331.34,470.76,23-Nov-22
+1045,Beauty,Fragrance,Floral Splash,1193.86,1445.42,15-May-24
